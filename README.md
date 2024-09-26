@@ -8,8 +8,6 @@ This project focuses on exploratory data analysis (EDA) of a wine quality datase
 
 ## Table of Contents
 - [Dataset Description](#dataset-description)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
 - [Data Preprocessing](#data-preprocessing)
 - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
 ---
