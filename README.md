@@ -12,10 +12,6 @@ This project focuses on exploratory data analysis (EDA) of a wine quality datase
 - [Installation](#installation)
 - [Data Preprocessing](#data-preprocessing)
 - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-- [Key Insights](#key-insights)
-- [Contributing](#contributing)
-- [License](#license)
-
 ---
 
 ## Dataset Description
@@ -33,5 +29,5 @@ The dataset used in this project consists of physicochemical properties of white
 - `pH`
 - `sulphates`
 - `alcohol`
-- `quality` (target variable)
+- `quality`
 ---
